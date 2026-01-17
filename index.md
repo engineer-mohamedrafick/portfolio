@@ -9,7 +9,7 @@ Welcome to my professional portfolio.
 Mechanical Engineer with demonstrated experience in engineering projects, continuous learning, and professional growth.
 
 ## Resume
-(Resume will be added here)
+[Download Resume (PDF)](/Mohamed_Rafick_Mechanical_Engineer_Resume.pdf)
 
 ## Contact
 Email: engineer.rafick@gmail.com  

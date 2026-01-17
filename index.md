@@ -1,4 +1,7 @@
-# Mohamed Rafick S
+---
+layout: home
+---
+
 ### Mechanical Engineer
 
 Welcome to my professional portfolio.

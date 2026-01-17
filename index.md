@@ -82,6 +82,21 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 
 </details>
 
+## Career Milestones
+
+<div class="timeline">
+
+**2018 — Mechanical Engineer, XYZ Company**  
+*Started professional career, worked on CAD design and process optimization.*
+
+**2020 — Lead Designer, ABC Project**  
+*Led a team of 5 engineers on a product development project, improving efficiency by 20%.*
+
+**2025 — UPSC Preparation & Professional Growth**  
+*Started UPSC preparation while leveraging mechanical engineering experience to build analytical skills.*
+
+</div>
+
 ## Resume
 [Download Resume (PDF)](/Mohamed_Rafick_Mechanical_Engineer_Resume.pdf)
 

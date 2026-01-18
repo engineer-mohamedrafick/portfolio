@@ -1,12 +1,15 @@
 ---
 layout: home
-title: Mechanical Engineer
+title: <!--Mechanical Engineer-->
 ---
 
 Welcome to my professional portfolio.
 
 ## About Me
-Mechanical Engineer with demonstrated experience in engineering projects, continuous learning, and professional growth.
+Results-driven Mechanical Engineer with 7.5+ years of experience in Product engineering, Design development, and 
+Quality systems. Expertise in DFMA, DFMEA, DTV, Value engineering, and Cost reductions. Team Lead, proven 
+cross-functional leadership and ISO quality Champion. Experienced across full product lifecycle from requirements to 
+production support. 
 
 ## Key Achievements
 - Successfully contributed to engineering projects with measurable outcomes

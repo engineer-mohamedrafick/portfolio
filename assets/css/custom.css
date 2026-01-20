@@ -1,4 +1,8 @@
 
+body {
+  background: yellow;
+}
+
 .timeline {
   border-left: 4px solid transparent;
   background: linear-gradient(#6366F1, #EC4899) left/4px 100% no-repeat;

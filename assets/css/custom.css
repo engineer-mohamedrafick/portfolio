@@ -1,23 +1,33 @@
-/* Test CSS — remove later if needed */
+/* Base page background */
 body {
   background: #fdfdfd;
 }
 
-/* Gradient Header (Minima default header override) */
+/* ===== Header (Minima override) ===== */
 .site-header {
   background: linear-gradient(90deg, #6366F1, #EC4899);
   padding: 20px;
 }
-
-.site-title a {
-  color: white !important;
-}
-
+.site-title a,
 .site-nav .page-link {
   color: #fff !important;
 }
 
-/* Timeline Section */
+/* ===== Links & buttons ===== */
+a { color: #6366F1; }
+a:hover { color: #EC4899; }
+
+.btn, button {
+  background: #6366F1;
+  color: #fff !important;
+  padding: 10px 16px;
+  border-radius: 6px;
+}
+.btn:hover, button:hover {
+  background: #EC4899;
+}
+
+/* ===== Timeline ===== */
 .timeline {
   border-left: 4px solid transparent;
   background: linear-gradient(#6366F1, #EC4899) left/4px 100% no-repeat;
@@ -51,19 +61,8 @@ body {
   font-weight: bold;
 }
 
-/* Progress Bars */
-progress {
-  width: 100%;
-  height: 12px;
-  -webkit-appearance: none;
-}
-
-progress::-webkit-progress-bar {
-  background: #eee;
-  border-radius: 8px;
-}
-
-progress::-webkit-progress-value {
-  background: linear-gradient(90deg, #6366F1, #EC4899);
-  border-radius: 8px;
-}
+/* ===== Progress bars ===== */
+progress { width: 100%; height: 12px; -webkit-appearance: none; appearance: none; }
+progress::-webkit-progress-bar { background: #eee; border-radius: 8px; }
+progress::-webkit-progress-value { background: linear-gradient(90deg, #6366F1, #EC4899); border-radius: 8px; }
+progress::-moz-progress-bar { background: linear-gradient(90deg, #6366F1, #EC4899); border-radius: 8px; }

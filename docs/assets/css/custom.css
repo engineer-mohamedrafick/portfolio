@@ -1,6 +1,6 @@
 /* Temporary test to verify CSS loads */
 body {
-  background: #fdfdfd; /* clean light background */
+  background: linear-gradient(#fafafa, #f0f0f5);
 }
 
 /* Header (Minima override) */

@@ -3,9 +3,6 @@ layout: home
 title: Mechanical Engineer
 ---
 
-<!-- Load custom CSS (must be exactly like this) -->
-/assets/css/custom.css
-
 Welcome to my professional portfolio.
 
 ---

@@ -1,9 +1,9 @@
-assets/css/custom.css
-
 ---
 layout: home
 title: Mechanical Engineer
 ---
+
+/assets/css/custom.css
 
 Welcome to my professional portfolio.
 
